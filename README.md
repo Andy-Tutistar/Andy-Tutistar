@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Andy 👋
 
-<!--
-**Andy-Tutistar/Andy-Tutistar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/andyy67-XD"><img src="https://img.shields.io/badge/GitHub-andyy67--XD-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:andy.tq27@gmail.com"><img src="https://img.shields.io/badge/Email-andy.tq27%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/andy-tutistar/"><img src="https://img.shields.io/badge/LinkedIn-Andy+Tutistar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andyy67-XD&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/andyy67-XD?label=Followers&style=social" alt="Followers" />
+</p>
+
+## About me
+
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con una sólida base tecnológica y una mentalidad orientada a la resolución de problemas.
+
+- 💻 Especializado en Redes, Sistemas Operativos y Bases de datos.
+- 🌱 En constante formacion
+- 🤝 Abierto en colaborar en nuevos proyectos
+
+## Tech stack
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Let’s connect
+
+If you want to collaborate, talk tech, or just say hello, feel free to reach out.
+
+<a href="https://github.com/andyy67-XD">
+  <img src="https://img.shields.io/badge/GitHub-%40andyy67--XD-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+---
+
+<p align="center">
+  <i>“Code is like art — the best work is the one that solves a problem beautifully.”</i>
+</p>
