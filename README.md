@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/andyy67-XD?label=Followers&style=social" alt="Followers" />
 </p>
 
-## About me
+## Sobre mi
 
 Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con una sólida base tecnológica y una mentalidad orientada a la resolución de problemas.
 
@@ -25,13 +25,13 @@ Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con
 
 ## Tech stack
 
-### Languages
+### Lenguajes
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Let’s connect
+## Contactemos
 
 If you want to collaborate, talk tech, or just say hello, feel free to reach out.
 
@@ -42,5 +42,5 @@ If you want to collaborate, talk tech, or just say hello, feel free to reach out
 ---
 
 <p align="center">
-  <i>“Code is like art — the best work is the one that solves a problem beautifully.”</i>
+  <i>“El código es como el arte: el mejor trabajo es aquel que resuelve un problema de manera hermosa.”</i>
 </p>
